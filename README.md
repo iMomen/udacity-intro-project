@@ -1,2 +1,3 @@
 # udacity-intro-project
-Udacity Intro Project
+
+Udacity Nano-Degree Intro Project
